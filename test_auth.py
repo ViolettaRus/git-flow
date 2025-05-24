@@ -1,7 +1,3 @@
-"""
-Тесты для модуля аутентификации auth.py.
-"""
-
 from auth import clear_users, get_user_count, login, register_user
 
 
